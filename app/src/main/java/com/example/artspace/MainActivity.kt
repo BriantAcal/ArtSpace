@@ -215,7 +215,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
                 modifier = Modifier.fillMaxWidth()
             ) {
                 Text(
-                    text = "Briant Acal Hernandez / 53030 / 18-04-2024",
+                    text = "Edgar A Cach Tamay / 66230 / 09-04-2024",
                     color = Color.Black,
                     modifier = Modifier.padding(top = 16.dp)
                 )
